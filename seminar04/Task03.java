@@ -74,9 +74,6 @@ class Task03a {
         System.out.println(getStack(array).getClass());
         System.out.println(getQueue(array));
         System.out.println(getQueue(array).getClass());
-
-
-
     }
     static Stack<Integer> getStack(int[] array) {
         Stack<Integer> stack = new Stack<>();
