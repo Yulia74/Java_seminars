@@ -1,3 +1,7 @@
+/* Реализовать стэк с помощью массива.
+   Нужно реализовать методы: size(), empty(), push(), peek(), pop().
+ */
+
 package seminar04;
 
 import java.util.Arrays;
